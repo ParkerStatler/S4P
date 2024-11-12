@@ -15,9 +15,9 @@ fig = px.histogram(v_df, x="model")
 st.plotly_chart(fig)
 
 
-x_axis = st.selectbox('X axis', df.columns, index=1)
-y_axis = st.selectbox('Y axis', df.columns, index=2)
-color = st.selectbox('Color', df.columns, index=3)
+x_axis = st.selectbox('X axis', v_df.columns, index=1)
+y_axis = st.selectbox('Y axis', v_df.columns, index=2)
+color = st.selectbox('Color', v_df.columns, index=3)
 st.subheader(f'Scatter plot matrix of {x_axis} and {y_axis} by {color}')
-fig = px.scatter_matrix(df, dimensions=[x_axis, y_axis], color=color)
+fig = px.scatter_matrix(v_df, dimensions=[x_axis, y_axis], color=color)
 st.plotly_chart(fig)
