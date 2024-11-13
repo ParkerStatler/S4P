@@ -1,7 +1,7 @@
 ### Software Development tools
 
 # Step 1
-  -Render, VS Code, and Github all were already downloaded with accounts made for each. 
+  -Render, VS Code, and Github all were already downloaded with accounts made for each./n 
   -A new github repository was made
   -All of the required packages were then installed.
 
