@@ -7,7 +7,7 @@ import pyarrow as pa
 
 st.title('US Vehicle Information')
 
-v_df = pd.read_csv('C:\\Users\\parke\\TripleTen\\vehicles_us_cleaned.csv')
+v_df = pd.read_csv(r"C:\Users\\parke\TripleTen\vehicles_us_cleaned.csv")
 
 st.write(v_df)
 
