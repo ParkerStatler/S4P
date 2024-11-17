@@ -1,4 +1,4 @@
-# FOR REVIEWER: I'm not sure why my app will not open and gives an error. It worked when I just opened it through the terminal by using the 'streamlit run app.py' command and it looked all good with the dataframe and the interactive graphs, but when I put it through render it didn't work anymore. Can you please give some type of advisory or tip or hint for this issue as I work full time and it's very difficult to find times I can join the zoom tutor sessions that line up with the tutors. 
+# FOR REVIEWER: CAN YOU PLEASE EXPLAIN TO ME WHY THE APP WORKED WHEN I FIRST TESTED IT JUST THROUGH THE TERMINAL BY RUNNING THE 'Streamlit run app.py' FUNCTION BUT DOESN'T WORK NOW THAT I PUT IT THROUGH RENDER. THE GUIDANCE WILL BE VERY MUCH APPRECIATED AS I WORK FULL TIME AND IT'S HARD TO GET ON THE TUTOR'S ZOOM MEETINGS. I HAVE TRIED MOVING THE FILE, TYPING IT IN DIIFERENT WAY AND ALMOST ANYTHING I COULD THINK OF. ANY TYPE OF ADVICE OTHER THEN TELLING ME WHAT THE ERROR IS WOULD BE APPRECIATED.
 # Software Development Tools
 ## Step 1
   #### Render, VS Code, and Github all were already downloaded with accounts made for each. 
